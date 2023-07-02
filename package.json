@@ -1,6 +1,6 @@
 {
-  "name": "chatgpt-api",
-  "version": "0.0.1",
+  "name": "ivory",
+  "version": "0.0.9",
   "packageManager": "pnpm@7.28.0",
   "scripts": {
     "dev": "astro dev",
