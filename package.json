@@ -1,6 +1,6 @@
 {
-  "name": "ivory",
-  "version": "0.0.9",
+  "name": "ivory-one",
+  "version": "0.1.0.1",
   "packageManager": "pnpm@7.28.0",
   "scripts": {
     "dev": "astro dev",
